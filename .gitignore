@@ -1,0 +1,7 @@
+logs/*
+world/stats/*
+crash-reports/*
+world/players/*
+.DS_Store
+.Trashes
+tmp/
