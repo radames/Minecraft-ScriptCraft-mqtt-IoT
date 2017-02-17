@@ -1,7 +1,47 @@
 [
   {
+    "uuid": "927d8b15-c208-41f1-88b4-34fd54afda08",
+    "name": "cloudmaker09",
+    "level": 4
+  },
+  {
+    "uuid": "054d2066-6b39-4889-b585-5d6ea375a1b9",
+    "name": "cloudmaker06",
+    "level": 4
+  },
+  {
+    "uuid": "589aff26-40e1-40c2-9c50-7d4b745096cc",
+    "name": "cloudmaker10",
+    "level": 4
+  },
+  {
+    "uuid": "b981baa7-88aa-4098-924b-44e40c1ccce0",
+    "name": "cloudmakeradmin",
+    "level": 4
+  },
+  {
     "uuid": "ec5f42a1-9270-4dd4-8211-14e1e3d3a5a1",
     "name": "radamar",
+    "level": 4
+  },
+  {
+    "uuid": "cb4471ef-5cf5-490e-bde1-b50ee54a8b0f",
+    "name": "cloudmaker07",
+    "level": 4
+  },
+  {
+    "uuid": "4aed59fa-92ff-4699-ae33-c03a5f9c8944",
+    "name": "cloudmaker04",
+    "level": 4
+  },
+  {
+    "uuid": "99fce203-1770-41dc-a28b-4147bcd430ed",
+    "name": "cloudmaker03",
+    "level": 4
+  },
+  {
+    "uuid": "bbc3fa37-3e51-4faf-9938-e86a88b07a74",
+    "name": "cloudmaker02",
     "level": 4
   }
 ]

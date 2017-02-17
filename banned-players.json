@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "d074fc31-6490-4dd4-95c2-d5a37fc029c3",
+    "name": "cloudmaker08",
+    "created": "2016-07-29 15:43:41 +0100",
+    "source": "cloudmaker04",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

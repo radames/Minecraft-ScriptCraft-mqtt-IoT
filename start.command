@@ -15,6 +15,6 @@ else
  cp -Rv "world" "$TMP_DIR/"
 fi
 
-java -Xmx1024M -classpath craftbukkit-1.8.jar:sc-mqtt.jar org.bukkit.craftbukkit.Main -o true &
+java -Xmx1024M -classpath craftbukkit-1.8.jar:sc-mqtt.jar org.bukkit.craftbukkit.Main -o true 
 open -a Minecraft
-python python/mkmkServer.py
+#python python/mkmkServer.py
